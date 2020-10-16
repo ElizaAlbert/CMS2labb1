@@ -1,8 +1,9 @@
 <?php
 
-function myFunction()
+function myFunction($string)
 {
-    echo "<h3> En sträng. <h3>";
+    echo $string;
 }
 
-myFunction();
+
+myFunction("<h3> En sträng. <h3>");
