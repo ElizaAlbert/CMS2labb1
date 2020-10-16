@@ -2,7 +2,7 @@
 
 function myFunction()
 {
-    echo "<p> En sträng. <p>";
+    echo "<h3> En sträng. <h3>";
 }
 
 myFunction();
